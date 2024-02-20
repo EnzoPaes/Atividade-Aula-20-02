@@ -1,3 +1,3 @@
 # DS
-es5te é um repositória de aula
+este é um repositória de aula
  
